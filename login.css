@@ -8,7 +8,7 @@
 
 body {
     font-family: 'Open Sans', Helvetica, Arial, sans-serif;
-    background: #c79a48; /* Change the background color here */
+    background: #97bc62; /* Change the background color here */
     color: #352909; /* Change the text color to black */
 }
 
@@ -112,7 +112,7 @@ button {
     top: 0;
     width: 100%;
     height: 100%;
-    background: rgba(182, 135, 14, 0.6);
+    background: rgba(44 95 45);
 }
 
 .cont.s--signup .img:before {
@@ -259,7 +259,7 @@ input {
 .submit {
     margin-top: 40px;
     margin-bottom: 20px;
-    background: #d5bf63;
+    background: #97bc62;
     text-transform: uppercase;
 }
 
